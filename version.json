@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.0/NotionPC-Setup-v1.0.0.exe",
+  "version": "1.0.1",
+  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.1/NotionPC-Setup-v1.0.1.exe",
   "release_date": "2026-08-22",
-  "changelog": "Initial Commercial Release of Notion PC: Native C engine, Safe Mode, Workspace Jail, Inno Setup Installer.",
+  "changelog": "• Мгновенное переключение режимов AI без задержек\n• Перетаскивание окна за верхнюю панель\n• Редизайн Workspace и очистка дубликатов\n• Повышение стабильности и защиты",
   "mandatory": false,
-  "min_supported_version": "1.0.0"
+  "min_supported_version": "1.0.0",
+  "sha256": "d9a851e49e7c8f28446e2d6755c47497abc5e0a5a79ea37bf135ed0053138cd8"
 }
