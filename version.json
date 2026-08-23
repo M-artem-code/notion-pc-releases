@@ -1,9 +1,9 @@
 {
-    "changelog":  "• Actual app version matches the installer (no more 1.0.0 UI in a 1.0.1 wrapper)\n• View in Browser opens github.com/M-artem-code/notion-pc-releases\n• Setup closes a running Notion PC.exe so upgrades overwrite the old binary",
-    "version":  "1.0.2",
-    "sha256":  "1518d3d956aba6950cf5c52b6f3281a3fd542d88233994b143e8c9a59477544a",
-    "mandatory":  false,
-    "download_url":  "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.2/NotionPC-Setup-v1.0.2.exe",
-    "min_supported_version":  "1.0.0",
-    "release_date":  "2026-08-22"
+    "changelog": "\u2022 Jail fails fast on Windows/System32/Program Files (no MCP hang)\n\u2022 Workspace can be a D: folder or a drive root\n\u2022 Terminal sessions persist across tool calls; cmd quoting fixed\n\u2022 Concurrent Notion calls no longer kill Streamable HTTP\n\u2022 .env readable; git still blocks secrets by default\n\u2022 pc_overview always lists drives",
+    "version": "1.0.3",
+    "sha256": "de372a9c3180acdb2d606c725ff26f6e201c7657f9fdc7c4bdbf7b091a887b60",
+    "mandatory": false,
+    "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.3/NotionPC-Setup-v1.0.3.exe",
+    "min_supported_version": "1.0.0",
+    "release_date": "2026-08-23"
 }
