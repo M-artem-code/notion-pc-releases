@@ -1,9 +1,9 @@
 {
-    "changelog":  "Fix garbled arrows on license and feedback buttons (UTF-8 UI)",
-    "version":  "1.0.4",
-    "sha256":  "1fa1641bccbab9041a73cd463a9887305297157d764b6d842f8775387867437f",
-    "mandatory":  false,
-    "download_url":  "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.4/NotionPC-Setup-v1.0.4.exe",
+    "changelog":  "Fix Cloudflare Error 1033: HTTP/2 over TCP 7844, Ready only when the public URL works, no pinned Cloudflare region.",
+    "version":  "1.0.5",
+    "sha256":  "accd3950bfd10a265697ae8e9ac79fc14215d1e07708874718388e34ec595ae4",
+    "mandatory":  true,
+    "download_url":  "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.5/NotionPC-Setup-v1.0.5.exe",
     "min_supported_version":  "1.0.0",
     "release_date":  "2026-08-23"
 }
