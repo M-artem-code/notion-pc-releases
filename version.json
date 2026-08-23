@@ -1,9 +1,9 @@
 {
-    "changelog": "\u2022 Jail fails fast on Windows/System32/Program Files (no MCP hang)\n\u2022 Workspace can be a D: folder or a drive root\n\u2022 Terminal sessions persist across tool calls; cmd quoting fixed\n\u2022 Concurrent Notion calls no longer kill Streamable HTTP\n\u2022 .env readable; git still blocks secrets by default\n\u2022 pc_overview always lists drives",
-    "version": "1.0.3",
-    "sha256": "de372a9c3180acdb2d606c725ff26f6e201c7657f9fdc7c4bdbf7b091a887b60",
-    "mandatory": false,
-    "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.3/NotionPC-Setup-v1.0.3.exe",
-    "min_supported_version": "1.0.0",
-    "release_date": "2026-08-23"
+    "changelog":  "Fix garbled arrows on license and feedback buttons (UTF-8 UI)",
+    "version":  "1.0.4",
+    "sha256":  "1fa1641bccbab9041a73cd463a9887305297157d764b6d842f8775387867437f",
+    "mandatory":  false,
+    "download_url":  "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.4/NotionPC-Setup-v1.0.4.exe",
+    "min_supported_version":  "1.0.0",
+    "release_date":  "2026-08-23"
 }
