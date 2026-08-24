@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.7/NotionPC-Setup-v1.0.7.exe",
+  "version": "1.0.8",
+  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.8/NotionPC-Setup-v1.0.8.exe",
   "mandatory": true,
   "release_date": "2026-08-24",
-  "min_supported_version": "1.0.7",
-  "policy_version": 2,
-  "changelog": "Fix mandatory update overlay appearing before status data loads.",
-  "sha256": "28c3c68d0a26315ea5e8ff21095a2640402b1fbe3a8722d6e87b34d0ff55a483",
-  "signature": "biulUZ3u41QUCdy6RjLNOMcOx4CRCNrCf_uC6gmfNVQ-u980NMrtXmeplTcQicNuAZjSeS4zDNdhbCq7DTHBDA"
+  "min_supported_version": "1.0.8",
+  "policy_version": 3,
+  "changelog": "Fix update UI crash, hide unlicensed connection data, and stabilize tunnel health checks.",
+  "sha256": "1cd1fd178f1c034bf425a7f4a26274f88331f01702e3e0b0d18e36aa00581b98",
+  "signature": "LVSFIvvNpEwzqYRGz3Z7VXjBpdSbk8910KKTock6TpaZdmkhVYnKLhh0iItXXxMr-HquoUv-yE8GURvxQR9GAQ"
 }
