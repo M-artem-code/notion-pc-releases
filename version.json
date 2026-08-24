@@ -1,9 +1,11 @@
 {
-    "changelog":  "Fix Cloudflare Error 1033: HTTP/2 over TCP 7844, Ready only when the public URL works, no pinned Cloudflare region.",
-    "version":  "1.0.5",
-    "sha256":  "accd3950bfd10a265697ae8e9ac79fc14215d1e07708874718388e34ec595ae4",
-    "mandatory":  true,
-    "download_url":  "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.5/NotionPC-Setup-v1.0.5.exe",
-    "min_supported_version":  "1.0.0",
-    "release_date":  "2026-08-23"
+  "version": "1.0.6",
+  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.6/NotionPC-Setup-v1.0.6.exe",
+  "mandatory": true,
+  "release_date": "2026-08-24",
+  "min_supported_version": "1.0.6",
+  "policy_version": 1,
+  "changelog": "Mandatory update enforcement, release pipeline hardening, and security fixes.",
+  "sha256": "5edf5e23de61bd101d664afbc24dcfd0408d79ce2b548bf7f8e7505b15e99c0f",
+  "signature": "ofOa3guQvqVtkByUT_8pV74ITZazCgsaYksr8saonSma8bFehrjcLA6p9UmbVJ6Jf_MnrM2bM3otIkIRC8avBQ"
 }
