@@ -1,13 +1,13 @@
 {
-  "mandatory": false,
-  "policy_version": 6,
+  "mandatory": true,
+  "policy_version": 7,
   "platform": "windows-x64",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "release_date": "2026-08-26",
-  "min_supported_version": "1.0.10",
-  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.11/NotionPC-Setup-v1.0.11.exe",
-  "sha256": "432b33307cbd62e510d8266e0bd1fd0fa2329f60d70211610ae379838158f7d2",
+  "min_supported_version": "1.0.12",
+  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.12/NotionPC-Setup-v1.0.12.exe",
+  "sha256": "e7cf9433be10dbe8861dd74a733e4fd51a0ef6d6eb846210eeca97a0e46dc8a0",
   "channel": "stable",
-  "changelog": "Tunnel stays up during an update lock. In-app update follows GitHub CDN redirects, retries known installer URLs, and no longer times out in 12 seconds. Failed update restores the tunnel.",
-  "signature": "giReYY4r5reovDnuKHOUPFBGlUdz0I3Jy0TZ-kyTT5FkfZ7GXoTKEFmJZ5UCR23f1ph8C-YRse1s3YzfNP70CA"
+  "changelog": "First launch no longer locks when GitHub raw is unreachable. Bundled signed update policy, non-blocking policy fetch, and a draggable window during a real version lock.",
+  "signature": "N5v-riEgQPYvxpdglk0J3DHQxijw2ilX7xEtUITCR5Eb433tJsiiSYrWrLzuX0ZD7jspdXhSxCZ0gQHno1V5Cg"
 }
