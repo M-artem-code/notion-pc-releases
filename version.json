@@ -1,11 +1,13 @@
 {
-  "version": "1.0.8",
-  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.8/NotionPC-Setup-v1.0.8.exe",
   "mandatory": true,
-  "release_date": "2026-08-24",
-  "min_supported_version": "1.0.8",
-  "policy_version": 3,
-  "changelog": "Fix update UI crash, hide unlicensed connection data, and stabilize tunnel health checks.",
-  "sha256": "1cd1fd178f1c034bf425a7f4a26274f88331f01702e3e0b0d18e36aa00581b98",
-  "signature": "LVSFIvvNpEwzqYRGz3Z7VXjBpdSbk8910KKTock6TpaZdmkhVYnKLhh0iItXXxMr-HquoUv-yE8GURvxQR9GAQ"
+  "policy_version": 4,
+  "platform": "windows-x64",
+  "version": "1.0.9",
+  "release_date": "2026-08-26",
+  "min_supported_version": "1.0.9",
+  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.9/NotionPC-Setup-v1.0.9.exe",
+  "sha256": "4487df6ec48efa3044d3a3d92f38f8c30a87d5452680ccaf6b04629a61f951a5",
+  "channel": "stable",
+  "changelog": "Pin the public session to the live tunnel hostname. A stolen URL without the current token is rejected. The MCP URL appears as soon as the endpoint is live.",
+  "signature": "f1HbZ375NrxGY0bb6OrBvj1W-Mo9-cyZ4_Jst8418TgL3FGsIZZWXFLFTMmZo3Pb9sM5mtm2IPRnhwD29ogmCg"
 }
