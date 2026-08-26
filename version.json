@@ -1,13 +1,13 @@
 {
-  "mandatory": true,
-  "policy_version": 5,
+  "mandatory": false,
+  "policy_version": 6,
   "platform": "windows-x64",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "release_date": "2026-08-26",
   "min_supported_version": "1.0.10",
-  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.10/NotionPC-Setup-v1.0.10.exe",
-  "sha256": "5155ea248b73c96a7bfffa5a281bf6e37af393e6904d5659db54c11e1acd7c33",
+  "download_url": "https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.11/NotionPC-Setup-v1.0.11.exe",
+  "sha256": "432b33307cbd62e510d8266e0bd1fd0fa2329f60d70211610ae379838158f7d2",
   "channel": "stable",
-  "changelog": "Bundle the Cloudflare tunnel helper in the installer. Installs from Downloads work. Tunnel reconnect no longer freezes the UI.",
-  "signature": "StxYZvGwbB_Yv4uIwcmNMfQdbxw1Mz3SzdOzr6u8ZcIrPHIkOxt53SpYaGMps-nB_vqu54fyYfPh24dUf9itDA"
+  "changelog": "Tunnel stays up during an update lock. In-app update follows GitHub CDN redirects, retries known installer URLs, and no longer times out in 12 seconds. Failed update restores the tunnel.",
+  "signature": "giReYY4r5reovDnuKHOUPFBGlUdz0I3Jy0TZ-kyTT5FkfZ7GXoTKEFmJZ5UCR23f1ph8C-YRse1s3YzfNP70CA"
 }
