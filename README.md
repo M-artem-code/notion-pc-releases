@@ -12,3 +12,4 @@ This repository hosts official installation packages, updates, and release manif
 * Safe Mode (Read-Only) & Active Workspace Isolation
 * Zero-dependency standalone installation
 * Automatic in-app update delivery
+
