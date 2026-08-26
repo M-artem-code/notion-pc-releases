@@ -5,7 +5,7 @@ This repository hosts official installation packages, updates, and release manif
 ## Downloads
 
 * **Latest release page:** [github.com/M-artem-code/notion-pc-releases/releases/latest](https://github.com/M-artem-code/notion-pc-releases/releases/latest)
-* **Latest installer (v1.0.10):** [NotionPC-Setup-v1.0.10.exe](https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.10/NotionPC-Setup-v1.0.10.exe)
+* **Latest installer (v1.0.11):** [NotionPC-Setup-v1.0.11.exe](https://github.com/M-artem-code/notion-pc-releases/releases/download/v1.0.11/NotionPC-Setup-v1.0.11.exe)
 
 ## Features
 * Native Windows Desktop Runtime for Notion AI
